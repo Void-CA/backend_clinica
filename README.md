@@ -100,4 +100,4 @@ Endpoints principales:
 
 
 #### Eliminar paciente
-![alt text](delete.png)
+![alt text](docs/delete.png)
